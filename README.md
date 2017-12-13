@@ -11,6 +11,7 @@ adding emoji
 Column 1 | Column 2
 ----------- | ----------
 cell 1 | cell 2
+
 I would say
 > It's 4:30 PM
 > Time to go home1
