@@ -5,4 +5,9 @@ my first test repo.
 - <del>two</del>
 - three
 
-I will stop typing.
+adding emoji
+:+1:  :camel:  :octocat:
+
+Column 1 | Column 2
+----------- | ----------
+cell 1 | cell 2
